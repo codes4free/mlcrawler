@@ -1,0 +1,40 @@
+{
+  "id": "MLB1234567890",
+  "title": "Bicicleta Elétrica Mountain Bike Aro 29 Bateria de Lítio 48v",
+  "price": 4599.99,
+  "original_price": 5999.99,
+  "discount_percentage": 23,
+  "permalink": "https://produto.mercadolivre.com.br/MLB-1234567890",
+  "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_123456-MLB12345678901_022024-O.webp",
+  
+  "condition": "new",
+  "free_shipping": true,
+  "available_quantity": 15,
+  
+  "brand": "EcoBike",
+  "model": "Mountain Pro X29",
+  "color": "Preto",
+  
+  "seller": {
+    "id": 123456789,
+    "nickname": "BIKESTORE_OFICIAL",
+    "reputation_level": "5_green"
+  },
+  
+  "location": {
+    "city": "São Paulo",
+    "state": "São Paulo"
+  },
+  
+  "main_attributes": {
+    "BATTERY_TYPE": "Íon de lítio",
+    "BATTERY_VOLTAGE": "48V",
+    "MAXIMUM_SPEED": "25 km/h",
+    "WHEEL_SIZE": "29\"",
+    "AUTONOMY": "45 km",
+    "WARRANTY_TIME": "12 meses",
+    "MOTOR_POWER": "350W",
+    "MATERIAL": "Alumínio",
+    "WEIGHT": "25 kg"
+  }
+} 

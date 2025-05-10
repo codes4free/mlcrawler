@@ -1,0 +1,41 @@
+{
+  "brand": "EcoBike",
+  "model": "Mountain Pro X29",
+  "color": "Preto",
+  "size": null,
+  "material": "Alumínio",
+  "weight": {
+    "value": 25,
+    "unit": "kg"
+  },
+  "dimensions": {
+    "length": null,
+    "width": null,
+    "height": null,
+    "unit": null
+  },
+  "voltage": "48V",
+  "warranty_time": {
+    "value": 12,
+    "unit": "meses"
+  },
+  "gender": null,
+  
+  "battery_type": "Íon de lítio",
+  "maximum_speed": {
+    "value": 25,
+    "unit": "km/h"
+  },
+  "wheel_size": {
+    "value": 29,
+    "unit": "\""
+  },
+  "autonomy": {
+    "value": 45,
+    "unit": "km"
+  },
+  "motor_power": {
+    "value": 350,
+    "unit": "W"
+  }
+} 

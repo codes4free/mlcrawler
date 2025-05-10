@@ -1,0 +1,483 @@
+{
+  "id": "MLB1234567890",
+  "title": "Bicicleta Elétrica Mountain Bike Aro 29 Bateria de Lítio 48v",
+  "price": 4599.99,
+  "original_price": 5999.99,
+  "currency_id": "BRL",
+  "permalink": "https://produto.mercadolivre.com.br/MLB-1234567890",
+  
+  "condition": "new",
+  "listing_type_id": "gold_special",
+  "status": "active",
+  
+  "date_created": "2024-05-01T10:30:00.000Z",
+  "last_updated": "2024-05-09T15:45:00.000Z",
+  
+  "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_123456-MLB12345678901_022024-O.webp",
+  "secure_thumbnail": "https://http2.mlstatic.com/D_NQ_NP_123456-MLB12345678901_022024-O.webp",
+  "pictures": [
+    {
+      "id": "123456-MLB12345678901_022024",
+      "url": "https://http2.mlstatic.com/D_NQ_NP_123456-MLB12345678901_022024-O.webp",
+      "secure_url": "https://http2.mlstatic.com/D_NQ_NP_123456-MLB12345678901_022024-O.webp",
+      "size": "500x500",
+      "max_size": "1200x1200",
+      "quality": "high"
+    },
+    {
+      "id": "123457-MLB12345678901_022024",
+      "url": "https://http2.mlstatic.com/D_NQ_NP_123457-MLB12345678901_022024-O.webp",
+      "secure_url": "https://http2.mlstatic.com/D_NQ_NP_123457-MLB12345678901_022024-O.webp",
+      "size": "500x500",
+      "max_size": "1200x1200",
+      "quality": "high"
+    }
+  ],
+  
+  "available_quantity": 15,
+  "sold_quantity": 42,
+  
+  "category_id": "MLB1403",
+  "domain_id": "MLB-ELECTRIC_BICYCLES",
+  "catalog_listing": true,
+  
+  "seller": {
+    "id": 123456789,
+    "nickname": "BIKESTORE_OFICIAL",
+    "car_dealer": false,
+    "real_estate_agency": false,
+    "registration_date": "2015-08-10T14:23:00.000Z",
+    "tags": [
+      "normal",
+      "credits_profile",
+      "mshops",
+      "messages_as_seller"
+    ],
+    "permalink": "http://perfil.mercadolivre.com.br/BIKESTORE_OFICIAL",
+    "seller_reputation": {
+      "level_id": "5_green",
+      "power_seller_status": "platinum",
+      "transactions": {
+        "canceled": 85,
+        "completed": 2950,
+        "period": "historic",
+        "ratings": {
+          "negative": 0.02,
+          "neutral": 0.01,
+          "positive": 0.97
+        },
+        "total": 3035
+      }
+    }
+  },
+  
+  "seller_address": {
+    "city": {
+      "id": "BR-SP-44",
+      "name": "São Paulo"
+    },
+    "state": {
+      "id": "BR-SP",
+      "name": "São Paulo"
+    },
+    "country": {
+      "id": "BR",
+      "name": "Brasil"
+    },
+    "latitude": -23.5506,
+    "longitude": -46.6333,
+    "address_line": "Av. Paulista, 1000",
+    "zip_code": "01310-100"
+  },
+  
+  "shipping": {
+    "free_shipping": true,
+    "mode": "me2",
+    "tags": [
+      "self_service_in",
+      "mandatory_free_shipping"
+    ],
+    "logistic_type": "fulfillment",
+    "store_pick_up": false,
+    "methods": [
+      {
+        "id": 100009,
+        "name": "Expresso",
+        "display_name": "Entrega Expressa",
+        "cost": 0,
+        "currency_id": "BRL",
+        "estimated_delivery_time": {
+          "date": "2024-05-15T00:00:00.000Z",
+          "unit": "day",
+          "quantity": 3
+        }
+      }
+    ],
+    "dimensions": "110x30x80,25000",
+    "local_pick_up": false,
+    "free_methods": [
+      {
+        "id": 100009,
+        "rule": {
+          "default": true,
+          "free_mode": "country",
+          "free_shipping_flag": true,
+          "value": null
+        }
+      }
+    ]
+  },
+  
+  "accepts_mercadopago": true,
+  "payment_methods": [
+    {
+      "id": "visa",
+      "name": "Visa",
+      "payment_type_id": "credit_card",
+      "default": true,
+      "installments": [
+        {
+          "quantity": 1,
+          "amount": 4599.99,
+          "rate": 0,
+          "currency_id": "BRL"
+        },
+        {
+          "quantity": 12,
+          "amount": 421.67,
+          "rate": 10,
+          "currency_id": "BRL"
+        }
+      ]
+    },
+    {
+      "id": "pix",
+      "name": "Pix",
+      "payment_type_id": "bank_transfer",
+      "default": false,
+      "installments": [
+        {
+          "quantity": 1,
+          "amount": 4369.99,
+          "rate": -5,
+          "currency_id": "BRL"
+        }
+      ]
+    }
+  ],
+  
+  "attributes": [
+    {
+      "id": "BRAND",
+      "name": "Marca",
+      "value_id": "2786570",
+      "value_name": "EcoBike",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Outros",
+      "source": 1,
+      "values": [
+        {
+          "id": "2786570",
+          "name": "EcoBike",
+          "struct": null,
+          "source": 1
+        }
+      ]
+    },
+    {
+      "id": "MODEL",
+      "name": "Modelo",
+      "value_id": null,
+      "value_name": "Mountain Pro X29",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Outros",
+      "source": 1,
+      "values": [
+        {
+          "id": null,
+          "name": "Mountain Pro X29",
+          "struct": null,
+          "source": 1
+        }
+      ]
+    },
+    {
+      "id": "COLOR",
+      "name": "Cor",
+      "value_id": "52049",
+      "value_name": "Preto",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Outros",
+      "source": 1,
+      "values": [
+        {
+          "id": "52049",
+          "name": "Preto",
+          "struct": null,
+          "source": 1
+        }
+      ]
+    },
+    {
+      "id": "WEIGHT",
+      "name": "Peso",
+      "value_id": null,
+      "value_name": "25 kg",
+      "value_struct": {
+        "number": 25,
+        "unit": "kg"
+      },
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Outros",
+      "source": 1,
+      "values": [
+        {
+          "id": null,
+          "name": "25 kg",
+          "struct": {
+            "number": 25,
+            "unit": "kg"
+          },
+          "source": 1
+        }
+      ]
+    },
+    {
+      "id": "BATTERY_TYPE",
+      "name": "Tipo de bateria",
+      "value_id": "7435884",
+      "value_name": "Íon de lítio",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Outros",
+      "source": 1,
+      "values": [
+        {
+          "id": "7435884",
+          "name": "Íon de lítio",
+          "struct": null,
+          "source": 1
+        }
+      ]
+    },
+    {
+      "id": "BATTERY_VOLTAGE",
+      "name": "Voltagem da bateria",
+      "value_id": null,
+      "value_name": "48V",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Outros",
+      "source": 1,
+      "values": [
+        {
+          "id": null,
+          "name": "48V",
+          "struct": null,
+          "source": 1
+        }
+      ]
+    },
+    {
+      "id": "MAXIMUM_SPEED",
+      "name": "Velocidade máxima",
+      "value_id": null,
+      "value_name": "25 km/h",
+      "value_struct": {
+        "number": 25,
+        "unit": "km/h"
+      },
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Outros",
+      "source": 1,
+      "values": [
+        {
+          "id": null,
+          "name": "25 km/h",
+          "struct": {
+            "number": 25,
+            "unit": "km/h"
+          },
+          "source": 1
+        }
+      ]
+    },
+    {
+      "id": "WHEEL_SIZE",
+      "name": "Tamanho de aro",
+      "value_id": "44550",
+      "value_name": "29\"",
+      "value_struct": {
+        "number": 29,
+        "unit": "\""
+      },
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Outros",
+      "source": 1,
+      "values": [
+        {
+          "id": "44550",
+          "name": "29\"",
+          "struct": {
+            "number": 29,
+            "unit": "\""
+          },
+          "source": 1
+        }
+      ]
+    },
+    {
+      "id": "AUTONOMY",
+      "name": "Autonomia",
+      "value_id": null,
+      "value_name": "45 km",
+      "value_struct": {
+        "number": 45,
+        "unit": "km"
+      },
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Outros",
+      "source": 1,
+      "values": [
+        {
+          "id": null,
+          "name": "45 km",
+          "struct": {
+            "number": 45,
+            "unit": "km"
+          },
+          "source": 1
+        }
+      ]
+    },
+    {
+      "id": "WARRANTY_TIME",
+      "name": "Tempo de garantia",
+      "value_id": null,
+      "value_name": "12 meses",
+      "value_struct": {
+        "number": 12,
+        "unit": "meses"
+      },
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Outros",
+      "source": 1,
+      "values": [
+        {
+          "id": null,
+          "name": "12 meses",
+          "struct": {
+            "number": 12,
+            "unit": "meses"
+          },
+          "source": 1
+        }
+      ]
+    },
+    {
+      "id": "MOTOR_POWER",
+      "name": "Potência do motor",
+      "value_id": null,
+      "value_name": "350W",
+      "value_struct": {
+        "number": 350,
+        "unit": "W"
+      },
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Outros",
+      "source": 1,
+      "values": [
+        {
+          "id": null,
+          "name": "350W",
+          "struct": {
+            "number": 350,
+            "unit": "W"
+          },
+          "source": 1
+        }
+      ]
+    },
+    {
+      "id": "MATERIAL",
+      "name": "Material",
+      "value_id": "2786571",
+      "value_name": "Alumínio",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Outros",
+      "source": 1,
+      "values": [
+        {
+          "id": "2786571",
+          "name": "Alumínio",
+          "struct": null,
+          "source": 1
+        }
+      ]
+    }
+  ],
+  
+  "variations": [
+    {
+      "id": 91450126001,
+      "price": 4599.99,
+      "attribute_combinations": [
+        {
+          "id": "COLOR",
+          "name": "Cor",
+          "value_id": "52049",
+          "value_name": "Preto"
+        }
+      ],
+      "available_quantity": 10,
+      "sold_quantity": 35,
+      "picture_ids": ["123456-MLB12345678901_022024"]
+    },
+    {
+      "id": 91450126002,
+      "price": 4599.99,
+      "attribute_combinations": [
+        {
+          "id": "COLOR",
+          "name": "Cor",
+          "value_id": "52005",
+          "value_name": "Vermelho"
+        }
+      ],
+      "available_quantity": 5,
+      "sold_quantity": 7,
+      "picture_ids": ["123457-MLB12345678901_022024"]
+    }
+  ],
+  
+  "warranty": "Garantia de fábrica: 12 meses",
+  
+  "video_id": "yT5Hgc7nUmk",
+  
+  "descriptions": [
+    {
+      "id": "MLB1234567890-2786570",
+      "text": "<p>Bicicleta Elétrica Mountain Bike Aro 29 com Bateria de Lítio de 48v, potência de 350W e autonomia de até 45km.</p><p>Características:</p><ul><li>Marca: EcoBike</li><li>Modelo: Mountain Pro X29</li><li>Motor: 350W sem escovas</li><li>Bateria: Íon de lítio 48V 13Ah removível</li><li>Autonomia: até 45km (dependendo do modo de uso)</li><li>Velocidade máxima: 25km/h</li><li>Tempo de recarga: 6-8h</li><li>Freios: Disco hidráulico dianteiro e traseiro</li><li>Câmbio: Shimano 21 velocidades</li><li>Suspensão: Dianteira com trava e regulagem</li><li>Quadro: Alumínio</li><li>Aro: 29 polegadas</li><li>Peso: 25kg</li><li>Suporta até: 120kg</li></ul>",
+      "plain_text": "Bicicleta Elétrica Mountain Bike Aro 29 com Bateria de Lítio de 48v, potência de 350W e autonomia de até 45km.\n\nCaracterísticas:\n- Marca: EcoBike\n- Modelo: Mountain Pro X29\n- Motor: 350W sem escovas\n- Bateria: Íon de lítio 48V 13Ah removível\n- Autonomia: até 45km (dependendo do modo de uso)\n- Velocidade máxima: 25km/h\n- Tempo de recarga: 6-8h\n- Freios: Disco hidráulico dianteiro e traseiro\n- Câmbio: Shimano 21 velocidades\n- Suspensão: Dianteira com trava e regulagem\n- Quadro: Alumínio\n- Aro: 29 polegadas\n- Peso: 25kg\n- Suporta até: 120kg"
+    }
+  ],
+  
+  "reviews": {
+    "rating_average": 4.7,
+    "total_reviews": 58
+  },
+  
+  "promotions": [
+    {
+      "id": "MLB1234567890-prom1",
+      "type": "discount",
+      "discount_percentage": 10,
+      "start_date": "2024-05-01T00:00:00.000Z",
+      "end_date": "2024-05-31T23:59:59.000Z"
+    }
+  ]
+} 
